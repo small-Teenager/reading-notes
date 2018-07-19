@@ -2,4 +2,4 @@
 this is a places for reading notes.my reading notes.
 
 # update link:
-https://github.com/small-Teenager/reading-notes.git
+[更新链接](https://github.com/small-Teenager/reading-notes.git)  

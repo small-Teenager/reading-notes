@@ -42,4 +42,4 @@
 
 [第二十一章 日志记录与使用情况追踪](https://github.com/small-Teenager/reading-notes/blob/master/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E7%AB%A0%20%E6%97%A5%E5%BF%97%E8%AE%B0%E5%BD%95%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B7%9F%E8%B8%AA/readme.md)
 
-[HTTP权威指南](https://github.com/small-Teenager/reading-notes/blob/master/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
+

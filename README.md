@@ -3,7 +3,7 @@ this is a places for reading notes.
 
 [HTTP权威指南](https://github.com/small-Teenager/reading-notes/blob/master/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97/README.md)
 
-[Java虚拟机规范](https://github.com/small-Teenager/reading-notes/blob/master/Java%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%A7%84%E8%8C%83%EF%BC%88Java%20SE%207)/README.md)
+[Java虚拟机规范](https://github.com/small-Teenager/reading-notes/blob/master/Java%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%A7%84%E8%8C%83/README.md)
 
 [Netty权威指南](https://github.com/small-Teenager/reading-notes/blob/master/Netty%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97/readme.md)
 
